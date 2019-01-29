@@ -21,7 +21,7 @@ limitations under the License.
 #define TENSORFLOW_CORE_LIB_STRINGS_STRCAT_H_
 
 #include <string>
-#include <cstring>
+
 #include "tensorflow/core/lib/core/stringpiece.h"
 #include "tensorflow/core/lib/strings/numbers.h"
 #include "tensorflow/core/platform/macros.h"
